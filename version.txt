@@ -1,0 +1,42 @@
+#date - version : Reason
+2021-05-06 - P01.01.0100 : Initial for production
+2021-05-17 - P01.01.0200 : Resolve Bug for API
+2021-05-17 - P01.01.0300 : For Report , Restore Config
+2021-05-27 - P01.01.0400 : Call API Not pass App Gateway
+2021-05-27 - P01.01.0401 : Call API Not pass App Gateway
+2021-06-02 - P01.01.0500 : Edit Javascripts for support Tablet
+2021-06-20 - P01.01.0600 : Add/Edit TempStaff
+2021-08-13 - P01.01.0700 : Locked user for only scan on his/her branch
+2021-09-03 - P01.01.0701 : Don't Locked user for only scan ,Edit state connect api
+2021-11-05 - P01.01.0702 : Don't Locked user for only scan ,Edit state connect api,edit ldap
+2022-08-29 - U01.01.0703 : Change AZURE resource group and added logging [Failed]
+2022-08-29 - U01.01.0704 : Change AZURE resource group and added logging [Fixed folder permission #1]
+2022-08-29 - U01.01.0705 : Change AZURE resource group and added logging [Fixed folder permission #2]
+2022-08-29 - U01.01.0706 : Change AZURE resource group and added logging [Fixed folder permission #3]
+2022-08-29 - U01.01.0707 : Change AZURE resource group and added logging [Fixed folder permission #4]
+2022-08-29 - U01.01.0708 : Change AZURE resource group and added logging [Fixed folder permission #5]
+2022-08-29 - U01.01.0709 : Change AZURE resource group and added logging [Fixed folder permission #6]
+2022-08-29 - U01.01.0710 : Change AZURE resource group and added logging [Fixed folder permission #7]
+2022-08-30 - U01.01.0711 : Change AZURE resource group and added logging [Fixed folder permission #8]
+2022-08-30 - U01.01.0712 : Change AZURE resource group and added logging [Fixed folder permission #9]
+2022-08-30 - U01.01.0713 : Change AZURE resource group and added logging [Fixed folder permission #10]
+2022-08-30 - U01.01.0714 : Change AZURE resource group and added logging [Fixed folder permission #11]
+2022-08-30 - U01.01.0715 : Change AZURE resource group and added logging [Fixed folder permission #12]
+2022-09-06 - U01.01.0716 : Fixed sweetalert2 js popup message
+2022-09-06 - U01.01.0717 : Fixed php.ini > error_reporting = E_ALL & ~E_NOTICE
+2022-09-06 - U01.01.0718 : Fixed php.ini > error_reporting = E_ALL & ~E_DEPRECATED
+2022-09-06 - U01.01.0719 : Fixed php.ini > remove error_reporting, display_errors
+2022-09-08 - U01.01.0720 : Fixed sweetalert2 js popup message #2
+2022-09-08 - U01.01.0721 : Fixed sweetalert2 js popup message #3
+2022-09-08 - U01.01.0722 : Added User camera.png, location.png and snapshot sound in index.php.
+
+2022-09-20 - U01.01.0723 : New lastest source code from K.Ple + K.Tai #1
+2022-09-20 - U01.01.0724 : New lastest source code from K.Ple + K.Tai #2, Fixed snapshot picture not eq scan in/out data.
+2022-09-20 - U01.01.0725 : Align PT logo to center
+
+2022-09-20 - U01.01.0726 : Fixed session problem when scale out app
+2022-09-27 - U01.01.0727 : Change all to Stateless Web App 
+
+2022-09-29 - U01.01.0728 : Fixed import jquery in hr/main.php
+
+2022-10-12 - P01.01.0704 : Deploy production for stateless web

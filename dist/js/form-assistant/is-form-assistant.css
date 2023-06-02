@@ -1,0 +1,45 @@
+[form-assistant] {
+  position: relative;
+}
+
+[form-assistant] [input-assistant-no] ~ label {
+  position: absolute;
+  right: 16px;
+}
+
+.focus-assistant {
+  position: absolute;
+  z-index: 1000;
+  text-align: right;
+}
+
+.focus-assistant:after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.65);
+  z-index: -1;
+}
+
+.focus-assistant .form-control,
+.focus-assistant .form-control:focus {
+  background-color: #ffffff;
+}
+
+.focus-assistant .form-control:focus {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.button-assistant button:disabled,
+button:disabled,
+.btn:disabled,
+.btn.disabled {
+  background-color: #6c757d;
+  border-color: #6c757d;
+}
